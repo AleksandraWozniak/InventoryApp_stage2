@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <string name="editor_activity_title_new_product">Add a Product</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="category_overview">Overview</string>
+
+    <string name="category_supplier">Supplier</string>
+
+    <string name="category_cover">Cover</string>
+
+    <string name="category_price">Price</string>
+
+    <string name="category_quantity">Quantity</string>
+
+    <string name="hint_product_name">Book name</string>
+
+    <string name="hint_product_author">Author</string>
+
+    <string name="hint_product_price">Price</string>
+
+    <string name="in_stock">In stock</string>
+
+    <string name="unit_product_price">EUR</string>
+
+    <string name="hint_product_quantity">Quantity ordered</string>
+
+    <string name="hint_product_supplier">Supplier name</string>
+
+    <string name="hint_product_supplier_phone">Supplier phone number</string>
+
+    <string name="e_book">e-book</string>
+
+    <string name="hard_cover">Hard cover</string>
+
+    <string name="soft_cover">Soft cover</string>
+
+    <string name="editor_insert_product_successful">Product saved</string>
+
+    <string name="editor_insert_product_failed">Error with saving product</string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a product\nPress the red button below on your right</string>
+
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+
+    <string name="editor_update_product_successful">Product updated</string>
+
+    <string name="editor_update_product_failed">Error with updating product</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_product_successful">Product deleted</string>
+
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="default_quantity">0</string>
+
+    <string name="sale_button">Sale</string>
+
+    <string name="quantity_error">Error in quantity value. Enter some value</string>
+
+    <string name="quantity_below">Quantity cannot be below 0</string>
+
+    <string name="decrease_quantity_button">-</string>
+
+    <string name="increase_quantity_button">+</string>
+
+    <string name="order_button">Order</string>
+
+    <string name="hint_quantity">Quantity</string>
+
+    <string name="_0">0</string>
+
+    <string name="maximum_quantity">Maximum quantity = 100</string>
+
+    <string name="email_subject">Order for the book</string>
+
+    <string name="email_message">Dear Sirs, I would like to order below book</string>
+
+    <string name="error_require_name">You must put a product name</string>
+
+    <string name="error_require_author">You must put a product author</string>
+
+    <string name="error_require_price">You must put a product price</string>
+
+    <string name="error_require_quantity">You must put a product quantity</string>
+
+    <string name="error_require_supplier_name">You must put a supplier name</string>
+
+    <string name="error_require_supplier_phone">You must put supplier phone</string>
+
+    <string name="error_require_supplier_email">You must put supplier email</string>
+
+
+</resources>

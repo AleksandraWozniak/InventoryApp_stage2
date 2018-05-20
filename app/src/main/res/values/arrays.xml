@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_cover_options">
+        <item>@string/e_book</item>
+        <item>@string/hard_cover</item>
+        <item>@string/soft_cover</item>
+    </string-array>
+</resources>
