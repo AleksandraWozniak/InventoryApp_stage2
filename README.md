@@ -13,3 +13,5 @@ Inventory App (book store app) allows a store to keep track of its inventory of 
 •	Creating intents to other apps using stored information
 
 This is just a practice app for the <a href="https://www.udacity.com/google-scholarships">Google Developer Challenge Scholarship: Android Basics</a> I received for the Android Basics path (Udacity courses ud836/nd803). 
+
+![alt text](https://github.com/AleksandraWozniak/InventoryApp_stage2/blob/master/emulalor_inventory%20app_Stage2.gif)
